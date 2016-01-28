@@ -1,1 +1,1 @@
-# Java_interview_prep
+I keep writing some programs for practice. As I work on them I just upload them here. You can try the programs and then look into the solution for verification.
